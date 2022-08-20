@@ -8,3 +8,6 @@ FarCraft does two special jobs:
 
 ## Usage
 To run just place the JAR into your servers plugins folder.
+
+## Please Note
+This is an Eclipse project. You will need to add the Spigot API JAR to compile the plugin.
