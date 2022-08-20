@@ -1,0 +1,4 @@
+name: FarCraft
+main: ubaldo.farcraft.Main
+version: 1.0
+commands:
